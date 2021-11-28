@@ -363,6 +363,10 @@ input, select, textarea {
 		padding: 5px;
 	}
 
+		main:hover{
+			opacity: 0.25;
+		}
+
 
 
 		#main .items {
