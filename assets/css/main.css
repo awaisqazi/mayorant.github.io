@@ -365,6 +365,7 @@ input, select, textarea {
 
 		main:hover{
 			opacity: 0.25;
+			background-color: rgba(29, 200, 227, 0.25);
 		}
 
 
