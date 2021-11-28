@@ -392,7 +392,7 @@ input, select, textarea {
 			flex-shrink: 0;
 			margin: 5px;
 			height: 16em;
-			box-shadow: 0 0 0 10px #ffffff;
+			box-shadow: 0 0 0 10px #000000;
 		}
 
 			#main .item.span-1 {
