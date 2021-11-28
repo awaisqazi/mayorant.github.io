@@ -582,7 +582,7 @@ input, select, textarea {
 					-webkit-flex-shrink: 1;
 					-ms-flex-shrink: 1;
 					flex-shrink: 1;
-					width: calc(50vw - 15px) !important;
+					width: 100% !important;
 					margin: 2.5px;
 					box-shadow: 0 0 0 5px #ffffff;
 				}
