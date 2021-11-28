@@ -363,7 +363,7 @@ input, select, textarea {
 		padding: 5px;
 	}
 
-		main:hover{
+		.item:hover{
 			opacity: 0.25;
 			background-color: rgba(29, 200, 227, 0.25);
 		}
