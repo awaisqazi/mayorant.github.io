@@ -1,1 +1,0 @@
-# mayorant.github.io
